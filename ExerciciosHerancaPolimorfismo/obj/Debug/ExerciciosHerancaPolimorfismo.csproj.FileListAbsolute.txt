@@ -1,0 +1,6 @@
+c:\users\brssantos\documents\visual studio 2013\Projects\ExerciciosHerancaPolimorfismo\ExerciciosHerancaPolimorfismo\bin\Debug\ExerciciosHerancaPolimorfismo.exe.config
+c:\users\brssantos\documents\visual studio 2013\Projects\ExerciciosHerancaPolimorfismo\ExerciciosHerancaPolimorfismo\bin\Debug\ExerciciosHerancaPolimorfismo.exe
+c:\users\brssantos\documents\visual studio 2013\Projects\ExerciciosHerancaPolimorfismo\ExerciciosHerancaPolimorfismo\bin\Debug\ExerciciosHerancaPolimorfismo.pdb
+c:\users\brssantos\documents\visual studio 2013\Projects\ExerciciosHerancaPolimorfismo\ExerciciosHerancaPolimorfismo\obj\Debug\ExerciciosHerancaPolimorfismo.csprojResolveAssemblyReference.cache
+c:\users\brssantos\documents\visual studio 2013\Projects\ExerciciosHerancaPolimorfismo\ExerciciosHerancaPolimorfismo\obj\Debug\ExerciciosHerancaPolimorfismo.exe
+c:\users\brssantos\documents\visual studio 2013\Projects\ExerciciosHerancaPolimorfismo\ExerciciosHerancaPolimorfismo\obj\Debug\ExerciciosHerancaPolimorfismo.pdb
